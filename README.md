@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Finished PCEP course
+- Working on PCAP and CS:50 courses
+- Working as production lead full time
+
 <!--
 **pequett/pequett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
